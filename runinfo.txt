@@ -1,0 +1,14 @@
+ran 2 miles
+10 mins
+Time: 1
+Distance: 2123998004
+Route: 60
+
+Time: 1
+Distance: 2128655156
+Route: 60
+
+Time: 1
+Distance: 2130404148
+Route: 60
+
