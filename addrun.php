@@ -22,7 +22,7 @@ $time= $_POST["time"];
 $distance = $_POST["distance"];
 $route = $_POST["route"];
 exec("/usr/lib/cgi-bin/sp1a/addrun" . $time . $distance . $route, $output);
-         echo "<h2>Program Output (an array):</h2>";
+         echo "<h2>Run Output:</h2>";
          foreach ($output as $line) {
            echo $line;
            echo "<br>";
